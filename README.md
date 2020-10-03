@@ -1,2 +1,2 @@
 
-A showcase of my python related coding
+A showcase of my python code
