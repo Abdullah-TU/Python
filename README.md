@@ -1,6 +1,6 @@
 # Python Learning
 
-<h1>This is a show-case of my python coding except machine learning.Machine learning is in another repositories of my github account. I am trying to learning different level of python coding, including: </h1>
+<h6>This is a show-case of my python coding except machine learning.Machine learning is in another repositories of my github account. I am trying to learning different level of python coding, including: </h6>
 
 <ul>
 <li>Basic Python</li>
