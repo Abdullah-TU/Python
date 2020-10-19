@@ -9,3 +9,23 @@
 <li>Python Projects</li> 
 <li>Projects with different python libraries</li> 
 </ul>
+
+
+<h4> Following important topics I tried to covers: </h4>
+
+<ul>
+<li>Basic Python</li>
+<li>Conditional Loops</li>
+<li>Strings</li>
+<li>Functions</li>     
+<li>File Handling</li>
+<li>Exception Handling</li>
+<li>Python classes</li>
+<li>Inheritance</li>   
+<li>Python's JSON</li> 
+<li>Python's Dates and time</li> 
+<li>Python's Math</li> 
+<li>Python's Data Structure</li>   
+<li>Projects with different python libraries</li> 
+</ul>
+
