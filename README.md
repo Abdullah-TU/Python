@@ -11,7 +11,7 @@
 </ul>
 
 
-<h4> Following important topics I tried to covers: </h4>
+<h4> Following important topics I tried to cover: </h4>
 
 <ul>
 <li>Basic Python</li>
