@@ -26,7 +26,7 @@
 <li>Python's JSON</li> 
 <li>Python's Dates and time</li> 
 <li>Python's Math</li> 
-<li>Python's Data Structure</li>   
+<li>Nested Data Structure</li>   
 <li>Projects with different python libraries</li> 
 </ul>
 
