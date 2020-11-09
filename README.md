@@ -21,7 +21,7 @@
 <li>Dictionary and Set</li>  
 <li>File Handling</li>
 <li>Exception Handling</li>
-<li>Python classes</li>
+<li>Classes and objects</li>
 <li>Inheritance</li>   
 <li>Python's JSON</li> 
 <li>Python's Dates and time</li> 
