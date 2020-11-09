@@ -14,7 +14,6 @@
 <h4> Following important topics I tried to cover: </h4>
 
 <ul>
-<li>Basic Python</li>
 <li>Conditional Loops</li>
 <li>Strings</li>
 <li>Functions</li>     
