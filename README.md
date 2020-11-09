@@ -18,6 +18,7 @@
 <li>Strings</li>
 <li>Functions</li>
 <li>List</li>  
+<li>Dictionary and Set</li>  
 <li>File Handling</li>
 <li>Exception Handling</li>
 <li>Python classes</li>
