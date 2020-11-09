@@ -16,7 +16,8 @@
 <ul>
 <li>Conditional Loops</li>
 <li>Strings</li>
-<li>Functions</li>     
+<li>Functions</li>
+<li>List</li>  
 <li>File Handling</li>
 <li>Exception Handling</li>
 <li>Python classes</li>
