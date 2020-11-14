@@ -11,7 +11,7 @@
 </ul>
 
 
-<h4> Following important topics I tried to cover: </h4>
+<h4> I have covered the following important topics: </h4>
 
 <ul>
 <li>Conditional Loops</li>
