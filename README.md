@@ -3,7 +3,6 @@
 <h4>This is a show-case of my python coding. I am trying to explore different level of python, including: </h4>
 
 <ul>
-<li>Basic Python</li>
 <li>Intermediate Python</li>
 <li>Advance Python</li>
 <li>Python Projects</li> 
