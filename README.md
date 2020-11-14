@@ -28,6 +28,6 @@
 <li>Python's Dates and time</li> 
 <li>Python's Math</li> 
 <li>Nested Data Structure</li>   
-<li>Projects with different python libraries</li> 
+
 </ul>
 
