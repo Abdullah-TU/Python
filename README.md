@@ -17,6 +17,7 @@
 <li>Strings</li>
 <li>Functions</li>
 <li>List</li>  
+<li>Dictionary</li>  
 
 
 </ul>
