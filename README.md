@@ -22,6 +22,10 @@
 <li>File Handling</li>
 <li>Exception Handling</li>
 <li>Classes and objects</li>
-
+<li>Inheritance</li>   
+<li>Python's JSON</li> 
+<li>Python's Dates and time</li> 
+<li>Python's Math</li> 
+<li>Nested Data Structure</li> 
 </ul>
 
