@@ -26,6 +26,7 @@
 <li>Inheritance</li>   
 <li>Python's JSON</li> 
 <li>Python's Dates and time</li> 
+<li>Python's Math</li> 
 
   
 </ul>
