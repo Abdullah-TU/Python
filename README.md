@@ -14,6 +14,7 @@
 
 <ul>
 <li>Conditional Loops</li>
+<li>Strings</li>
 
 
   
