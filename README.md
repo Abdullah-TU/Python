@@ -20,10 +20,6 @@
 <li>Dictionary</li>  
 <li>Set</li>  
 <li>File Handling</li>
-<li>Exception Handling</li>
-<li>Processing Files</li> 
-<li>Classes and objects</li>
-<li>Inheritance</li>   
-<li>Python's JSON</li>
+
 </ul>
 
