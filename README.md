@@ -6,6 +6,8 @@
 <li>Intermediate Python</li>
 <li>Advance Python</li>
 <li>Python Projects</li> 
+<li>Projects with different python libraries</li> 
+
 
 
 <h4> I have covered the following important topics: </h4>
