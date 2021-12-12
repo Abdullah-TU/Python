@@ -13,11 +13,7 @@
 <h4> I have covered the following important topics: </h4>
 
 <ul>
-<li>Conditional Loops</li>
-<li>Strings</li>
-<li>Functions</li>
-<li>List</li>  
-<li>Dictionary</li>  
+
 <li>Set</li>  
 <li>File Handling</li>
 <li>Exception Handling</li>
