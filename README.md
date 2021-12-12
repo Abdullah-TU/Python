@@ -13,6 +13,7 @@
 <h4> I have covered the following important topics: </h4>
 
 <ul>
+<li>Conditional Loops</li>
 
 <li>Set</li>  
 <li>File Handling</li>
