@@ -17,6 +17,9 @@
 <li>Strings</li>
 <li>Functions</li>
 <li>List</li>  
+<li>Dictionary</li>  
+<li>Set</li>  
+<li>File Handling</li>
 
 </ul>
 
