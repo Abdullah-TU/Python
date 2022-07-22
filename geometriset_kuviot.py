@@ -76,7 +76,7 @@ def menu():
         action.If something other than n, s or q is entered, the program prints error message "Incorrect entry, try again!" 
         and returns to the pattern selection. If a negative number or a 
         
-        zero is entered as a dimension, the user is asked to re-enter the value, using the same prompt as originally.
+        Zero is entered as a dimension, the user is asked to re-enter the value, using the same prompt as originally.
         
         The circle is selected from the menu with the c command.
         
