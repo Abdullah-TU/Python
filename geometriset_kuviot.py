@@ -7,7 +7,6 @@ Geometric patterns.
 def square_circumference(a): 
     """
     calculation of circumference of square
-     
     - parameter a: the length of the square's side
     """
     circumference = 4*a
