@@ -67,7 +67,7 @@ def circle_circumference(a):
 def menu():
     """
     Printing a menu for user to select which geometric pattern to use in calculations.
-    - Parameter: There is no parameter for the fucntion menu()
+    - Parameter: There is no parameter for the fucntion menu().
     """
     while True:
         """
