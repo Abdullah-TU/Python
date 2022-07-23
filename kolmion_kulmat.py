@@ -1,5 +1,4 @@
 """
-COMP.CS.100 Programming 1
 Triangle's angle
 """
 
