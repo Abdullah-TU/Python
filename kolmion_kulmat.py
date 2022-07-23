@@ -3,7 +3,6 @@ Triangle's angle
 """
 
 def calculate_angle(x, y=False):
-    
     """
     : passing optional named arguments by position to find out the third angle of triangle.
     
