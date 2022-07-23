@@ -6,7 +6,7 @@ def calculate_angle(x, y=False):
     """
     : passing optional named arguments by position to find out the third angle of triangle.
     
-    Note: the sum of triangle's corner angles is 180°.
+    : Note - the sum of triangle's corner angles is 180°.
     """
     
     if y is not False :
