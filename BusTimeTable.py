@@ -1,5 +1,5 @@
 """
-Bus Time Table
+Bus Time Table:
 
 Let's assume that at some less inhabited area (Teisko?), buses leave for Tampere according to the 
 following schedule in the list.
