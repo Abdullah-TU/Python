@@ -1,5 +1,4 @@
 """
-COMP.CS.100 Programming 1
 Bus Time Table
 
 Let's assume that at some less inhabited area (Teisko?), buses leave for Tampere according to the 
