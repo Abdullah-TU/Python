@@ -3,6 +3,7 @@ Bus Time Table
 
 Let's assume that at some less inhabited area (Teisko?), buses leave for Tampere according to the 
 following schedule in the list.
+
 Design and implement a program which asks the user what time it is and prints the times for the next 
 three buses, based of the entered time.
 """
@@ -14,7 +15,7 @@ def bussi(b):
     for i in b:
         print(i)
         
-
+        
 def main():
     """
     To be able to concentrate on the essential matter (presenting the schedule as a list), 
