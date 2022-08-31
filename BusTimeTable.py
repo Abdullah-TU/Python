@@ -21,7 +21,7 @@ def main():
     To be able to concentrate on the essential matter (presenting the schedule as a list), 
     simplify the presentation of the time by saving the time as one integer where the minutes and 
     the hours are expressed in the same number, i.e. 6:30 as 630 and 16:20 as 1620. 
-    Times presented this way can easily be compared with each other
+    Times presented this way can easily be compared with each other.
     """
     bus = [630,1015,1415,1620,1720,2000]
 
@@ -38,7 +38,7 @@ def main():
 
 
     if enter <= 630:
-        bus1.extend(bus[0:3]) # extend stores multiple element in the list, but append stores only one.
+        bus1.extend(bus[0:3])  # extend stores multiple element in the list, but append stores only one.
       
     elif 630 < enter <= 1015: 
         bus2.extend(bus[1:4])
