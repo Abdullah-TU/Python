@@ -46,8 +46,7 @@ def main():
     """
     E= 0.000000001
     User_input1= float(input('Enter first floating point number: '))
-    User_input2= float(input('Enter second floating point number: '))
-    
+    User_input2= float(input('Enter second floating point number: '))    
     print(compare_floats(User_input1, User_input2,  E))
     
     
