@@ -37,10 +37,10 @@ def compare_floats(x, y, EPSILON):
         
 def main():
     """
+    
     :EPSILON- constant value of epsilon.
     :User_input1- represents first floating point number
     :User_input2- represents second floating point number
-    
     Finally passing above values in compare_floats() function and printing the result.
    
     """
