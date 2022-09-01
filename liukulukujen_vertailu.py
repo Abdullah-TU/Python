@@ -1,9 +1,9 @@
 """
-Comparing floating-point (decimal) numbers
+Comparing floating-point (decimal) numbers.
 """
 
 """
-the function compare_floats that uses two floating point numbers and an epsilon as a parameter and returns 
+The function compare_floats that uses two floating point numbers and an epsilon as a parameter and returns 
 information on whether the numbers are same to a sufficient degree (the parameter epsilon) as a truth value.
 
 :EPSILON- represents a sufficiently small error tolerance, such as 0.000000001.
