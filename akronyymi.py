@@ -9,9 +9,7 @@ Reverse the Names to Correct Order
 def create_an_acronym(lists):
     """
     : we need to split the names where comma will be found. 
-    
-    :i[0][0].upper() method makes capital of all the first letter of each word.
-    
+    :i[0][0].upper() method makes capital of all the first letter of each word.    
     : then join() method is used to join all the first letter.
     
     """    
