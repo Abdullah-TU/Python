@@ -1,5 +1,5 @@
 """
-Vowels and Consonants
+  Vowels and Consonants
 
 : Write a program that asks from a user an English word and tells how many vowels 
   and consonants the word contains.
