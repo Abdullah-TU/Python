@@ -9,8 +9,7 @@ def main():
     """
     :userinput - taking userinput.    
     :userinput_vlist- split a word into a list of letters    
-    : vowel- counting and adding all the vowels from user input
-    
+    : vowel- counting and adding all the vowels from user input    
     : consonent: calcluating the lenght of the list and substracting the vowel to find out the number of consosnent letters.
     """
     
