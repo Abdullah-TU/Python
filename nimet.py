@@ -1,5 +1,5 @@
 """
-Reverse the Names to Correct Order
+: Reverse the Names to Correct Order
 
 : In various lists of names, names are sometimes presented in reverse order, the last name before the first name, 
 so that there is a comma after the last name. Create a function reverse_name, which changes a string containing such 
