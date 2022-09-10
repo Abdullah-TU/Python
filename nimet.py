@@ -5,8 +5,7 @@
 so that there is a comma after the last name. Create a function reverse_name, which changes a string containing such 
 a name to the order, where the first name is followed with the last name.
 
-The names are separated with a space and the comma 
-as well as all unnecessary spaces are removed. The function returns the modified name.
+The names are separated with a space and the comma as well as all unnecessary spaces are removed. The function returns the modified name.
 
 and some other conditions......
 """
