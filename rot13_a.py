@@ -6,7 +6,7 @@ Part a)
 def encrypt(text):
     """
     Encrypting its parameter using ROT13 encryption technology.
-
+    
     :param text: str,  string to be encrypted
     :return: str, <text> parameter encrypted using ROT13
     """
@@ -32,6 +32,7 @@ def encrypt(text):
     
     if (text not in regular_chars) and (text not in encrypted_chars) and (text not in upper_regular_chars) and (text not in upper_encrypted_chars):
         return text
+    
     else:
         x=zip(regular_chars, encrypted_chars)
         m=tuple(x)
