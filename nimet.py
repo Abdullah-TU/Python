@@ -23,8 +23,7 @@ def reverse_name(lists):
     if lists.count(',')==1:
         x= lists.split(',')
         m=x[0].strip()
-        n=x[1].strip()
-    
+        n=x[1].strip()    
     
         if n== "" and m != "":
             return m
