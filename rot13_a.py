@@ -1,11 +1,11 @@
 """
-ROT13 program code template
-a)
+ROT13 program
+Part a)
 """
 
 def encrypt(text):
     """
-    Encrypts its parameter using ROT13 encryption technology.
+    Encrypting its parameter using ROT13 encryption technology.
 
     :param text: str,  string to be encrypted
     :return: str, <text> parameter encrypted using ROT13
