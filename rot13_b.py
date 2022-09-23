@@ -50,7 +50,6 @@ def encrypt(text):
 def row_encryption(sentence):
     """
     Encrypts its parameter using ROT13 encryption technology.
-
     :param text: str,  string to be encrypted
     :return: str, <text> parameter encrypted using ROT13
     """
