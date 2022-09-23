@@ -6,7 +6,6 @@ b)
 def encrypt(text):
     """
     Encrypts its parameter using ROT13 encryption technology.
-
     :param text: str,  string to be encrypted
     :return: str, <text> parameter encrypted using ROT13
     """
