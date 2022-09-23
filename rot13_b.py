@@ -8,6 +8,7 @@ def encrypt(text):
     Encrypts its parameter using ROT13 encryption technology.
     :param text: str,  string to be encrypted
     :return: str, <text> parameter encrypted using ROT13
+    
     """
 
     regular_chars   = ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k",
@@ -26,8 +27,7 @@ def encrypt(text):
 
     
     for i in encrypted_chars:        
-        upper_encrypted_chars.append(i.upper())
-        
+        upper_encrypted_chars.append(i.upper())        
     
     if (text not in regular_chars) and (text not in encrypted_chars) and (text not in upper_regular_chars) and (text not in upper_encrypted_chars):
         print(text)
