@@ -24,7 +24,6 @@ def encrypt(text):
     
     for i in regular_chars:        
         upper_regular_chars.append(i.upper())      
-
     
     for i in encrypted_chars:        
         upper_encrypted_chars.append(i.upper())        
