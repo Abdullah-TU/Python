@@ -5,12 +5,10 @@
 each word starting in upper case but the rest of the world in lower case.
 
 """
-
 def capitalize_initial_letters(capital=""):
     """
     : firstly making the provided string into lower case.   
-    
-    
+       
     : then using title() method to capitalize first letter of each word.
     
     """    
