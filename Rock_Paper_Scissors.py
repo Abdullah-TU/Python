@@ -1,3 +1,5 @@
+# Rock Paper Scissors
+
 def main():
     player1 = input("Player 1, enter your choice (R/P/S): ")
     player2 = input("Player 2, enter your choice (R/P/S): ")
