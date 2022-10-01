@@ -1,3 +1,5 @@
+Blood pressure calculations:
+
 import sys
 
 
@@ -18,9 +20,7 @@ def pressure(par):
                     continue
             except ValueError or int(systolic) <= 0:
                 print('Enter a positive integer!')
-
                 continue
-
 
 def condition(systolic, diastolic):
     if 180 < systolic or 120 < diastolic:
