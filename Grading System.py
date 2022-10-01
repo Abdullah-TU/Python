@@ -39,4 +39,3 @@ class Student:
         for i in self.cl:
             cr+=int(i.credits)
         return cr
-
