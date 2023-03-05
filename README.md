@@ -1,6 +1,6 @@
 # Python Learning
 
-<h4>This is a show-case of my python coding. I am trying to explore different level of python, including: </h4>
+<h4>This is a remarkable display of my Python programming skills, as I embark on a journey to delve into various levels of the language, encompassing: </h4>
 
 <ul>
 <li>Intermediate Python</li>
