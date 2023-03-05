@@ -1,4 +1,4 @@
-# Python Learning 📖🖋️
+# Python Learning 📖✍️
 
 <h4>This is a remarkable display of my Python programming skills, as I embark on a journey to delve into various levels of the language, encompassing: </h4>
 
