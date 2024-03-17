@@ -13,5 +13,8 @@
 <h4> I have delved into the following significant topics: </h4>
 
 <ul>
+<li>Conditional Loops</li>
+<li>Strings</li>
+<li>Functions</li>
 
 </ul>
