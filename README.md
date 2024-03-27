@@ -4,6 +4,9 @@
 
 <ul>
 <li>Intermediate Python</li>
+<li>Advance Python</li>
+<li>Python Projects</li> 
+
 
 </ul>
 
