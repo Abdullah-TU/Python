@@ -11,6 +11,8 @@
 <li>Dictionary</li>  
 <li>Set</li>  
 <li>File Handling</li>
+<li>Exception Handling</li>
+</ul>
 
 
 <h4> I have delved into the following significant topics: </h4>
