@@ -10,6 +10,7 @@
 <li>List</li>  
 <li>Dictionary</li>  
 <li>Set</li>  
+<li>File Handling</li>
 
 
 <h4> I have delved into the following significant topics: </h4>
