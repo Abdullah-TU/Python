@@ -5,6 +5,7 @@
 <ul>
 <li>Intermediate Python</li>
 <li>Advance Python</li>
+<li>Python Projects</li> 
 
 <li>Set</li>  
 <li>File Handling</li>
