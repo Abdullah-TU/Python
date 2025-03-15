@@ -20,5 +20,7 @@
 <ul>
 <li>Conditional Loops</li>
 <li>Strings</li>
+<li>Functions</li>
+<li>Processing Files</li> 
 
 </ul>
