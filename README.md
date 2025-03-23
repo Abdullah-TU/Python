@@ -5,6 +5,7 @@
 <ul>
 <li>Advance Python</li>
 <li>Intermediate Python</li>
+<li>Python Projects</li> 
 
 <li>List</li>  
 <li>Dictionary</li> 
