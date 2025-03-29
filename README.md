@@ -7,7 +7,7 @@
 <li>Intermediate Python</li>
 <li>Python Projects</li> 
 <li>Projects with different python libraries</li> 
-
+<li>List</li> 
 <li>Dictionary</li> 
 <li>Set</li>  
 <li>File Handling</li>
