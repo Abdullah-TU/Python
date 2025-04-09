@@ -6,6 +6,8 @@
  <li>Advance Python</li>
 <li>Intermediate Python</li>
 <li>Python Projects</li> 
+<li>Projects with different python libraries</li> 
+<li>List</li> 
 
 </ul>
 
